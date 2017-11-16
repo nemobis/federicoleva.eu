@@ -1,0 +1,36 @@
+baseURL = "http://federicoleva.eu/"
+copyright = "Creative Commons BY-SA 4.0"
+MetaDataFormat = "yaml"
+theme = "ananke"
+# hugo-theme-nix, minimal
+
+languageCode = "en"
+# DefaultContentLanguage = "en"
+# defaultContentLanguageInSubdir = true
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+enableRobotsTXT = false
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  title = "Federico Leva"
+  description = "Federico Leva: free knowledge and digital rights"
+  featured_image = "/images/vuosaari-cigno.jpg"
+  recent_posts_number = 0
+  background_color_class = "bg-black"
+  twitter = "https://twitter.com/nemobis"
+  linkedin = "https://www.linkedin.com/in/federicoleva"
+  github = "https://www.openhub.net/accounts/nemobis"
+
+#[Languages.it]
+#weight = 2
+#[Languages.it.params]
+#description = "Federico Leva: conoscenza libera e diritti digitali"
+#[Languages.fi]
+#weight = 1
+#[Languages.fi.params]
+#description = "Federico Leva: vapaa tieto ja digitaalisia oikeuksia"
