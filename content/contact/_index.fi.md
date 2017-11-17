@@ -7,4 +7,4 @@ Sähköposti: federicoleva PRESSO tiscali PISTE it tai federico.leva@wikimedia.i
 Minulla on [Telegram](https://www.telegram.org/) etc.
 
 Olen Helsingissa:
-[{{< figure src="/huopalahti-osm.png" alt="Huopalahti, mappa ciclabile di OSM and Andy Allan" >}}](https://www.openstreetmap.org/#map=14/60.2193/24.8942)
+[{{< figure src="/images/huopalahti-osm.png" alt="Huopalahti, mappa ciclabile di OSM and Andy Allan" >}}](https://www.openstreetmap.org/#map=14/60.2193/24.8942)

@@ -7,4 +7,4 @@ Il contatto piú efficiente è via posta elettronica: federicoleva PRESSO tiscal
 A richiesta numero di telefono, [Telegram](https://www.telegram.org/) ecc.
 
 Il mio domicilio è a Helsinki:
-[{{< figure src="/huopalahti-osm.png" alt="Huopalahti, mappa ciclabile di OSM and Andy Allan" >}}](https://www.openstreetmap.org/#map=14/60.2193/24.8942)
+[{{< figure src="/images/huopalahti-osm.png" alt="Huopalahti, mappa ciclabile di OSM and Andy Allan" >}}](https://www.openstreetmap.org/#map=14/60.2193/24.8942)

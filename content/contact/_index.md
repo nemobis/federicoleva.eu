@@ -7,4 +7,4 @@ The most efficient way to contact me is by email: federicoleva PRESSO tiscali PI
 Feel free to ask my cell number, [Telegram](https://www.telegram.org/) etc.
 
 My physical address is in Helsinki:
-[{{< figure src="/huopalahti-osm.png" alt="Huopalahti bikemap by OSM and Andy Allan" >}}](https://www.openstreetmap.org/#map=14/60.2193/24.8942)
+[{{< figure src="/images/huopalahti-osm.png" alt="Huopalahti bikemap by OSM and Andy Allan" >}}](https://www.openstreetmap.org/#map=14/60.2193/24.8942)
