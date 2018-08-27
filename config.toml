@@ -1,4 +1,4 @@
-baseURL = "http://federicoleva.eu/"
+baseURL = "https://federicoleva.eu/"
 copyright = "Creative Commons BY-SA 4.0"
 #MetaDataFormat = "yaml"
 theme = "ananke"
