@@ -22,7 +22,7 @@ enableRobotsTXT = false
   featured_image = "/images/vuosaari-cigno.jpg"
   recent_posts_number = 0
   background_color_class = "bg-black"
-  twitter = "https://twitter.com/nemobis"
+  twitter = "https://mamot.fr/@nemobis"
   linkedin = "https://www.linkedin.com/in/federicoleva"
   github = "https://www.openhub.net/accounts/nemobis"
 
@@ -35,4 +35,4 @@ enableRobotsTXT = false
   description = "Federico Leva: conoscenza libera e diritti digitali"
 [Languages.fi]
   weight = 1
-  description = "Federico Leva: vapaa tieto ja digitaalisia oikeuksia"
+  description = "Federico Leva: vapaa tieto ja digitaaliset oikeudet"
