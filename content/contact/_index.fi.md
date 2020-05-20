@@ -1,9 +1,9 @@
 ---
 title: "Yhteystiedot"
-date: 2017-11-16T23:06:20+02:00
+date: 2020-05-20T19:34:20+03:00
 ---
 Sähköposti: federicoleva@tiscali.it tai federico.leva@wikimedia.it.
 
 Minulla on [Telegram](https://www.telegram.org/) etc.
 
-Olen Helsingissa.
+Olen Helsingissä.
