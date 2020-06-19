@@ -1,6 +1,7 @@
 baseURL = "https://federicoleva.eu/"
 copyright = "Creative Commons BY-SA 4.0"
 #MetaDataFormat = "yaml"
+# Remember to delete the useless JS from data/webpack_assets.json
 theme = "ananke"
 # hugo-theme-nix, minimal
 
