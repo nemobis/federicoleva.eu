@@ -23,9 +23,9 @@ enableRobotsTXT = false
   featured_image = "/images/vuosaari-cigno.jpg"
   recent_posts_number = 0
   background_color_class = "bg-black"
-  twitter = "https://mamot.fr/@nemobis"
+  mastodon = "https://mamot.fr/@nemobis"
   linkedin = "https://www.linkedin.com/in/federicoleva"
-  github = "https://www.openhub.net/accounts/nemobis"
+  gitlab = "https://www.openhub.net/accounts/nemobis"
 
 [Languages]
 [Languages.en]
