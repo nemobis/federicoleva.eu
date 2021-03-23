@@ -1,3 +1,4 @@
+title = "Federico Leva"
 baseURL = "https://federicoleva.eu/"
 copyright = "Creative Commons BY-SA 4.0"
 #MetaDataFormat = "yaml"
@@ -19,7 +20,6 @@ enableRobotsTXT = false
   filename = "sitemap.xml"
 
 [params]
-  title = "Federico Leva"
   featured_image = "/images/vuosaari-cigno.jpg"
   recent_posts_number = 0
   background_color_class = "bg-black"
