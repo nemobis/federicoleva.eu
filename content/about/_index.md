@@ -9,23 +9,4 @@ I work as ICT consultant for [Fondazione BEIC](http://www.beic.it/en/) and I mai
 More from me: [mailing lists](http://markmail.org/search/?q=from%3A%22Federico%20Leva%22), [books](http://www.anobii.com/nemobis/books), [quotations](https://it.wikiquote.org/w/index.php?title=Speciale%3AContributi&contribs=user&target=Nemo+bis&namespace=0&&hideMinor=1).
 
 I'm member or supporter of several entities including:
-[a](http://bfp.sp.unipi.it/aisa/)
-[c](https://chicomendes.it/)
-[D](http://www.darcasa.org/)
-[d](https://dissem.in)
-[e](https://effi.org/)
-[f](https://fsfe.org)
-[g](http://www.gfeaction.eu/)
-[h](https://helsinki.hacklab.fi/)
-[i](https://www.ils.org/)
-[l](https://www.libreitalia.it/)
-[l](https://legambiente.it/)
-[m](http://www.mfe.it/site/)
-[n](https://noyb.eu/)
-[o](http://www.openlabs.it/)
-[s](https://sfconservancy.org/)
-[s](http://www.sensocomune.it/)
-[u](https://www.uaar.it/)
-[w](https://wiki.wikimedia.it/)
-[w](https://wikimedia.de/)
-[w](https://fi.wikimedia.org).
+{{< orglist >}}.
