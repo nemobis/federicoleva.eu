@@ -1,8 +1,8 @@
 ---
 title: "Informazioni"
-date: 2021-03-23 22:05:39+02:00
+date: 2022-05-30 00:05:00+03:00
 ---
-Nato nel 1989, residente a Helsinki. Noto come [Nemo](https://wiki.wikimedia.it/wiki/Utente:Nemo) o [Nemo_bis](https://meta.wikimedia.org/wiki/User:Nemo_bis) per attività intorno a Wikimedia dal 2005; semplicemente Federico in [forum linguistici](http://www.achyra.org/cruscate/profile.php?mode=viewprofile&u=55) e [politica universitaria](http://blog.federicoleva.eu/category/politica/universita/).
+Nato nel 1989, residente a Helsinki ([Vallila](http://vallila.org/)). Noto come [Nemo](https://wiki.wikimedia.it/wiki/Utente:Nemo) o [Nemo_bis](https://meta.wikimedia.org/wiki/User:Nemo_bis) per attività intorno a Wikimedia dal 2005; semplicemente Federico in [forum linguistici](http://www.achyra.org/cruscate/profile.php?mode=viewprofile&u=55) e [politica universitaria](http://blog.federicoleva.eu/category/politica/universita/).
 
 Lavoro come DevOps engineer in [RELEX Oy](https://www.relexsolutions.com). Amministro alcuni progetti di [biblioteche digitali](https://archive.org/) e [preservazione digitale](http://archiveteam.org/index.php?title=WikiTeam) e ho lavorato fino al 2020 per [Fondazione BEIC](http://www.beic.it/).
 
