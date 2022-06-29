@@ -1,8 +1,8 @@
 ---
 title: "Contatti"
-date: 2020-06-19T14:39:27+03:00
+date: 2022-06-29T11:28:24+03:00
 ---
-Il contatto piú efficiente è via posta elettronica: federicoleva@tiscali.it. Per necessità specifiche, può essere opportuno federico.leva@wikimedia.it o altro indirizzo ufficiale. Scrivo con nemowiki@ nelle liste di discussione e altri indirizzi altrove.
+Il contatto piú efficiente è via posta elettronica: federicoleva@tiscali.it. Per attività specifiche è meglio usare l'indirizzo corrispondente, per esempio federico.leva@wikimedia.it per materie Wikimedia o domande@leva.li per le [mie richieste GDPR](https://domande.leva.li/). Scrivo con nemowiki@ nelle liste di discussione.
 
 A richiesta numero di telefono, [Telegram](https://www.telegram.org/) ecc.
 
